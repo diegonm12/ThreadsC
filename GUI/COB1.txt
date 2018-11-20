@@ -1,0 +1,4 @@
+34,Radioactive,left,52,1
+35,Radioactive,left,53,1
+36,Radioactive,left,54,1
+37,Radioactive,left,55,1

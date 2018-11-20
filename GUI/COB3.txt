@@ -1,0 +1,3 @@
+48,normalCar,right,56,3
+49,normalCar,right,57,3
+50,normalCar,right,58,3

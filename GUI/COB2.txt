@@ -1,0 +1,2 @@
+47,Ambulance,left,29,2
+48,Ambulance,left,30,2

@@ -1,0 +1,7 @@
+0,Normal,59,20,3
+1,Normal,60,20,3
+2,Normal,61,20,3
+3,Normal,62,20,3
+4,Normal,63,20,3
+5,Normal,64,20,3
+6,Normal,65,20,3
